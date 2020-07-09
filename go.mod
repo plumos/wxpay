@@ -1,4 +1,4 @@
-module github.com/plumos/wxpay/v2
+module github.com/plumos/wxpay
 
 go 1.12
 
